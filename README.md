@@ -18,7 +18,7 @@ and simulations using ROS, CoppeliaSim and Unity.
 ![Sim Image1](./images/sim1.png)
 ![Sim Image2](./images/sim2.png)
 
-##### Unity Models:
+#### Unity Models:
 
 ![Unity Image1](./images/unity1.png)  
 ![Unity Image2](./images/unity2.png)  
