@@ -20,6 +20,6 @@ and simulations using ROS, CoppeliaSim and Unity.
 
 ##### Unity Models:
 
-![Unity Image1](./images/unity3.png)  
+![Unity Image1](./images/unity1.png)  
 ![Unity Image2](./images/unity2.png)  
 ![Unity Image1](./images/unity3.png)
