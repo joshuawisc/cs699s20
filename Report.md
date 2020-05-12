@@ -18,7 +18,7 @@ The mimicry control system that was previously built had the main functionalitie
 rotation of both the arms using two Vive controllers. This semester, I worked on making the system more usable and 
 adding more features. 
 
-##### Features:
+#### Features:
 
 The new system has the ability to work with just one Vive controller. By pressing a button, the controller alternates 
 between controlling the right arm, controlling nothing, and controlling the left arm. The controller can also be used 
@@ -49,7 +49,7 @@ There are also some smaller features included in the Movo mimicry control ROS pa
    nodes that add a user-defined amount of delay.
 
 
-##### Limitations:
+#### Limitations:
 
 The whole system requires a wired Ethernet connection from the Windows machine to the Movo, which reduces the 
 mobility of the Movo. The method for switching arms could be improved. Currently, a single button controls which 
@@ -84,7 +84,7 @@ to pass through the object it is trying to grasp.
 ### Unity Models - [files](https://github.com/joshuawisc/UnityRobotModels)
 
 I did some work with importing models into Unity. This repo contains various models I was able to add into Unity like 
-the Movo, Panda and the Robotiq r85 gripper. I also included a Unity package that includes the gripper along with some
+the Movo, Panda and the Robotiq gripper. I also included a Unity package that includes the gripper along with some
  scripts for controlling it.
 
 ## Work
